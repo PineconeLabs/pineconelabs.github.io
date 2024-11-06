@@ -1,0 +1,16 @@
+Welcome to Pinecone's Documentation!
+=====================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   introduction   # Add new .rst or .md files here to include them in the TOC
+   api_reference  # Include files that provide more details
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
